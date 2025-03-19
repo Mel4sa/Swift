@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         
        viewImage1.image =
             magicBall [ Int.random(in: 0...4)  ]
+    							
     }
 
 
